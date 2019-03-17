@@ -1,4 +1,10 @@
 # @d5avard/fill-with-dash
 
-[![npm (scoped)]
-(https://img.shields.io/badge/npm-v1.0.0-blue.svg)]
+![npm](https://img.shields.io/npm/v/@d5avard/fill-with-dash.svg)
+
+Command line tools that fills all spaces and replace others special characters (.) with a dash.
+
+## Install
+````
+npm i @d5avard/fill-with-dash
+````
