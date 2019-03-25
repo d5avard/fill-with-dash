@@ -1,6 +1,6 @@
 {
   "name": "@d5avard/fill-with-dash",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Command line tools that fills all spaces and replace others special characters (.) with a dash.",
   "main": "index.js",
   "scripts": {
