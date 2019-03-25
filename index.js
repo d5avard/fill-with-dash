@@ -1,5 +1,5 @@
 const yargs = require('yargs')
-const fillWithDash = require('./src/fill-with-dash')
+const { fillWithDash } = require('./src/fill-with-dash')
 
 const main = function (argv) {
     let result = fillWithDash(argv._)
